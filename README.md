@@ -27,3 +27,6 @@ to add this.
 ## To-Do
 
 ### Implement paging the search results
+
+
+Currently running with  npm start 'https://www.sreality.cz/hledani/pronajem/domy/praha-zapad,praha-vychod,praha-1,praha-2,praha-3,praha-4,praha-7,praha-6,praha-5,praha-8,praha-9,praha-10?velikost=5-a-vice,atypicky&plocha-od=300&plocha-do=10000000000&cena-od=0&cena-do=86000'
